@@ -1,0 +1,55 @@
+Year High (GH¢)
+Year Low (GH¢)
+Previous Closing Price - VWAP (GH¢)
+Opening Price (GH¢)
+Last Transaction Price (GH¢)
+Closing Price - VWAP (GH¢)
+Price Change (GH¢)
+Closing Bid Price (GH¢)
+Closing Offer Price (GH¢)
+Total Shares Traded
+Total Value Traded (GH¢)
+Year
+Month
+Day
+DayOfWeek
+Quarter
+IsMonthEnd
+IsMonthStart
+Daily_Price_Range
+Price_Change_Pct
+Volatility
+Log_Volume
+Volume_Change
+Log_Value
+Avg_Trade_Size
+Price_Momentum_3d
+Volume_Momentum_3d
+Price_Volume_Trend
+Bid_Ask_Spread
+Bid_Ask_Spread_Pct
+Price_Lag_1d
+Volume_Lag_1d
+Value_Lag_1d
+Volatility_Lag_1d
+Price_Lag_3d
+Volume_Lag_3d
+Value_Lag_3d
+Volatility_Lag_3d
+Price_Lag_5d
+Volume_Lag_5d
+Value_Lag_5d
+Volatility_Lag_5d
+Price_Lag_10d
+Volume_Lag_10d
+Value_Lag_10d
+Volatility_Lag_10d
+Price_MA_3d
+Volume_MA_3d
+Price_MA_5d
+Volume_MA_5d
+Price_MA_10d
+Volume_MA_10d
+Price_Momentum_1d
+Volume_Momentum_1d
+Share_Code_Encoded
